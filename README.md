@@ -35,8 +35,7 @@
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;" width="26px" align="left"></a>
 
 
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg
-" style="max-width:100%;" width="26px" align="left"></a>
+<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="max-width:100%;" width="26px" align="left"></a>
 
 
 
