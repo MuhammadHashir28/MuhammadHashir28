@@ -51,10 +51,13 @@
 <br />
 <br />
 
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+<!--
+
 1. 🗣 Commented on [#2](https://github.com/MuhammadHashir28/portfolio-sass/issues/2) in [MuhammadHashir28/portfolio-sass](https://github.com/MuhammadHashir28/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/MuhammadHashir28/portfolio-sass/issues/2) in [MuhammadHashir28/portfolio-sass](https://github.com/MuhammadHashir28/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/MuhammadHashir28/free-developer-resources/pull/11) in [MuhammadHashir28/free-developer-resources](https://github.com/MuhammadHashir28/free-developer-resources)
@@ -62,4 +65,4 @@
 5. 🎉 Merged PR [#10](https://github.com/MuhammadHashir28/free-developer-resources/pull/10) in [MuhammadHashir28/free-developer-resources](https://github.com/MuhammadHashir28/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
+<!--</details>-->
