@@ -7,7 +7,10 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/muhammad-hashir-a94293116/" rel="nofollow"><img alt="Muhammad Hashir | LinkedIn" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-muhammad-hashir-a94293116/" rel="nofollow"><img alt="Muhammad Hashir | LinkedIn" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
+  
+<a href="mailTo:m.hashir28@gmail.com" rel="nofollow"><img alt="Muhammad Hashir | Gmail" src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;" width="22px" align="left"></a>
+  
 </p>
 
 <br />
