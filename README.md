@@ -7,9 +7,11 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/%F0%9F%92%BB-muhammad-hashir-a94293116/" rel="nofollow"><img alt="Muhammad Hashir | LinkedIn" src="https://camo.githubusercontent.com/c545108e3c415b360bd92733cb4729a361df4ae128fa3bc12df32b82f1f664c2/68747470733a2f2f7374617469632d657870312e6c6963646e2e636f6d2f73632f682f616c326f397a727672753761716a3865317832727a73726361" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" width="25px" align="left"></a>
   
-<a href="mailTo:m.hashir28@gmail.com" rel="nofollow"><img alt="Muhammad Hashir | Gmail" src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;" width="25px" align="left"></a>
+
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-muhammad-hashir-a94293116/" rel="nofollow"><img alt="Muhammad Hashir | LinkedIn" src="https://camo.githubusercontent.com/c545108e3c415b360bd92733cb4729a361df4ae128fa3bc12df32b82f1f664c2/68747470733a2f2f7374617469632d657870312e6c6963646e2e636f6d2f73632f682f616c326f397a727672753761716a3865317832727a73726361" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" align="left"></a>
+  
+<a href="mailTo:m.hashir28@gmail.com" rel="nofollow"><img alt="Muhammad Hashir | Gmail" src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32" height="32" align="left"></a>
   
 </p>
 
