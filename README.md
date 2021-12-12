@@ -1,8 +1,8 @@
 ### Muhammad Hashir - Full Stack Web Developer
   Hi ! I am Muhammad Hashir software engineer, and tech enthusiast. Currently working as a full stack web developer in US based company. 
-- I’m currently learning latest framework like ReactJS and NextJS. 
-- I’m looking to collaborate with other content creators.
-- 2022 Goals: Contribute more to Open Source projects and learn latest language.
+  - I’m currently learning latest framework like ReactJS and NextJS. 
+  - I’m looking to collaborate with other content creators.
+  - 2022 Goals: Contribute more to Open Source projects and learn latest language.
 
 
 ### Let's Connect:
