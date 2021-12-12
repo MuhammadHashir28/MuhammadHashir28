@@ -1,13 +1,11 @@
-### Hi there, I'm Muhammad Hashir - Full Stack Web Developer 👋
+### Muhammad Hashir - Full Stack Web Developer
+- I’m currently learning latest framework like ReactJS and NextJS. 
+- I’m looking to collaborate with other content creators.
+- 2022 Goals: Contribute more to Open Source projects and learn latest language.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn latest language.
 
 ### Connect with me:
-
 <p>
-  
 
 <a href="https://www.linkedin.com/in/%F0%9F%92%BB-muhammad-hashir-a94293116/" rel="nofollow"><img alt="Muhammad Hashir | LinkedIn" src="https://camo.githubusercontent.com/c545108e3c415b360bd92733cb4729a361df4ae128fa3bc12df32b82f1f664c2/68747470733a2f2f7374617469632d657870312e6c6963646e2e636f6d2f73632f682f616c326f397a727672753761716a3865317832727a73726361" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" align="left"></a>
   
