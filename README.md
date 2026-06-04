@@ -1,4 +1,4 @@
-<img src="./profile-banner.png" width="100%" style="display:block;margin:0;padding:0;height:400px;object-fit:cover;" alt="Banner"/>
+<img src="./profile-banner.png" width="100%" style="display:block;margin:0;padding:0;height:340px;object-fit:cover;" alt="Banner"/>
 
 <div align="center">
 
