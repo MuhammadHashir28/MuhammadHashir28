@@ -1,91 +1,98 @@
-<p align="center">
-  <img src="./image(5).png" width="100%" alt="MH_DEV Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-⚡ Muhammad Hashir ⚡
-</h1>
+# ⚡ Muhammad Hashir
 
-<h3 align="center">
-Full Stack Web Developer • Creative Coder • Tech Enthusiast
-</h3>
+### Full-Stack Software Engineer | Creative Coder | Tech Enthusiast
 
-<p align="center">
+<img src="./assets/profile-banner.png" width="100%" alt="Banner"/>
 
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+Building scalable web applications, modern user experiences, and AI-powered solutions.
+
+<br>
+
+<a href="mailto:m.hashir28@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Hire_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 👨‍💻 SYSTEM STATUS
+## 👨‍💻 About Me
 
-```yaml
-Name: Muhammad Hashir
-Alias: MH_DEV
-Role: Full Stack Software Engineer
-Experience: 3+ Years
-Projects: 25+
-Clients: 15+
-Status: Available for Freelance Work
-Location: Pakistan
-```
+I'm a Full-Stack Software Engineer passionate about building scalable web applications and modern digital experiences.
+
+- 🚀 Full Stack Web Developer
+- 💼 Working with international clients
+- 🌱 Exploring AI, Cloud, and Modern Web Technologies
+- ⚡ Focused on performance, clean architecture, and great UX
+- 🤝 Open to freelance opportunities and collaborations
 
 ---
 
-## 🚀 MISSION
+## 📊 Quick Overview
 
-Building immersive digital experiences through clean code,
-scalable architecture, futuristic UI design,
-and modern web technologies.
+| Experience | Projects | Clients | Status |
+|------------|-----------|----------|---------|
+| 3+ Years | 25+ Completed | 15+ Clients | 🟢 Available |
 
 ---
 
-## ⚡ TECH ARSENAL
+## ⚔️ Tech Stack
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,tailwind,js,ts,html,css,vite" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,js,ts" />
 </p>
 
 ### Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,graphql,firebase" />
 </p>
 
 ### Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### DevOps & Cloud
+### Cloud & DevOps
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,azure" />
 </p>
 
 ### Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 </p>
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## 🚀 What I Build
+
+- Enterprise Web Applications
+- SaaS Platforms
+- REST APIs & Backend Systems
+- AI-Powered Applications
+- Dashboard & Admin Panels
+- E-Commerce Solutions
+- Cloud-Based Applications
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 
@@ -97,72 +104,55 @@ and modern web technologies.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🌟 Featured Projects
 
-<p align="center">
+### 🔹 Project One
+Short description of your project.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+**Tech Stack:** React, Node.js, MongoDB
 
-</p>
+### 🔹 Project Two
+Short description of your project.
 
----
+**Tech Stack:** Next.js, PostgreSQL
 
-## 🔥 FEATURED PROJECTS
+### 🔹 Project Three
+Short description of your project.
 
-### ⚡ AI-Powered Applications
-Modern AI integrations and automation solutions.
-
-### ⚡ Full Stack Platforms
-Scalable enterprise-grade web applications.
-
-### ⚡ Interactive 3D Experiences
-Three.js powered immersive web experiences.
-
-### ⚡ SaaS Products
-Secure, cloud-ready business platforms.
+**Tech Stack:** .NET Core, SQL Server
 
 ---
 
-## 🌐 CONNECT
+## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="mailto:m.hashir28@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/⚡_HIRE_ME-00E5FF?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 </p>
 
 ---
 
-## 💭 PHILOSOPHY
+<div align="center">
 
-> Building modern digital experiences with clean architecture,
-> performance-first development,
-> and futuristic design.
+### ⚡ Available For Freelance Projects
 
----
+*"Building modern digital experiences through clean code and scalable architecture."*
 
-<p align="center">
-
-### ⚡ AVAILABLE FOR FREELANCE PROJECTS ⚡
-
-</p>
+</div>
