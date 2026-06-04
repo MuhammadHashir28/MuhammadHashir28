@@ -15,125 +15,175 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ **Technologies & Tools**
 
-<div align="center">
+<div align="left" style="margin-left: 40px;">
 
 ### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📱</div>
-    <strong>React</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #667eea; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=react" width="75" height="75" alt="React"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">React</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">⚡</div>
-    <strong>Next.js</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #f093fb; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="75" height="75" alt="Next.js"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Next.js</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎨</div>
-    <strong>Tailwind</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #06B6D4; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="75" height="75" alt="Tailwind"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Tailwind</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📘</div>
-    <strong>Bootstrap</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #7952B3; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="75" height="75" alt="Bootstrap"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Bootstrap</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔤</div>
-    <strong>TypeScript</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #3178C6; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=typescript" width="75" height="75" alt="TypeScript"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">TypeScript</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📄</div>
-    <strong>HTML5</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #E34C26; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=html" width="75" height="75" alt="HTML5"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">HTML5</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎭</div>
-    <strong>CSS3</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #1572B6; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=css" width="75" height="75" alt="CSS3"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">CSS3</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">✨</div>
-    <strong>JavaScript</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #F7DF1E; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=javascript" width="75" height="75" alt="JavaScript"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">JavaScript</strong>
   </div>
 </div>
 
 ### Backend
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🟢</div>
-    <strong>Node.js</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #68A063; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="75" height="75" alt="Node.js"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Node.js</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🚂</div>
-    <strong>Express</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #000000; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=express" width="75" height="75" alt="Express"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Express</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐍</div>
-    <strong>Python</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #3776AB; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=python" width="75" height="75" alt="Python"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Python</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎯</div>
-    <strong>Django</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #092E20; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=django" width="75" height="75" alt="Django"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Django</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔷</div>
-    <strong>.NET</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #512BD4; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="75" height="75" alt=".NET"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">.NET</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔗</div>
-    <strong>GraphQL</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #E10098; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=graphql" width="75" height="75" alt="GraphQL"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">GraphQL</strong>
   </div>
 </div>
 
 ### Databases & Storage
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔥</div>
-    <strong>Firebase</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #FFCA28; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="75" height="75" alt="Firebase"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Firebase</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🍃</div>
-    <strong>MongoDB</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #13AA52; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="75" height="75" alt="MongoDB"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">MongoDB</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐘</div>
-    <strong>PostgreSQL</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #336791; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="75" height="75" alt="PostgreSQL"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">PostgreSQL</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐬</div>
-    <strong>MySQL</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #00758F; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="75" height="75" alt="MySQL"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">MySQL</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">⚙️</div>
-    <strong>Redis</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #DC382D; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=redis" width="75" height="75" alt="Redis"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Redis</strong>
   </div>
 </div>
 
 ### DevOps & Cloud
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐳</div>
-    <strong>Docker</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #2496ED; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=docker" width="75" height="75" alt="Docker"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Docker</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📦</div>
-    <strong>Git</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #F1502F; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=git" width="75" height="75" alt="Git"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Git</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">☁️</div>
-    <strong>AWS</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #FF9900; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="75" height="75" alt="AWS"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">AWS</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔵</div>
-    <strong>Azure</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #0078D4; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=azure" width="75" height="75" alt="Azure"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Azure</strong>
   </div>
 </div>
 
 ### Tools
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">💻</div>
-    <strong>VS Code</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #007ACC; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="75" height="75" alt="VS Code"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">VS Code</strong>
   </div>
-  <div style="text-align: center;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📮</div>
-    <strong>Postman</strong>
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #FF6C37; display: flex; align-items: center; justify-content: center; padding: 5px;">
+      <img src="https://skillicons.dev/icons?i=postman" width="75" height="75" alt="Postman"/>
+    </div>
+    <strong style="margin-top: 8px; font-size: 14px;">Postman</strong>
   </div>
 </div>
 
