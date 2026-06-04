@@ -1,4 +1,4 @@
-<img src="./profile-banner.png" width="100%" style="display:block;margin:0;padding:0;height:300px;object-fit:cover;" alt="Banner"/>
+<img src="./profile-banner.png" width="100%" style="display:block;margin:0;padding:0;height:400px;object-fit:cover;" alt="Banner"/>
 
 <div align="center">
 
@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -33,19 +32,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
-
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
-
 </div>
 
 ---
@@ -54,42 +50,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Enterprise Web Apps • SaaS Platforms • REST APIs • Cloud Solutions • E-Commerce • AI-Powered Applications • Mobile Apps • Real-time Dashboards
 
----
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHashir28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHashir28&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
-## 🎯 **Fun Fact**
-
-I once built an automation script that monitors my GitHub contributions and sends AI-powered insights to my dashboard! 🤖📊
-
----
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Muhammad Hashir"
-        self.role = "Passionate Full-Stack Developer | AI Enthusiast"
-        self.language_spoken = ["en_US", "ur_PK"]
-        self.specialization = ["Web Development", "Cloud Architecture", "AI Integration"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
 
 ---
 
