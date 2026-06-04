@@ -7,7 +7,7 @@
 
 *Full-Stack Developer | Architect | AI Solutions | Web Developer *
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm [...]
 
 </div>
 
@@ -15,33 +15,128 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ **Technologies & Tools**
 
-<div align="left">
+<div align="center">
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
+### Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📱</div>
+    <strong>React</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">⚡</div>
+    <strong>Next.js</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎨</div>
+    <strong>Tailwind</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📘</div>
+    <strong>Bootstrap</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔤</div>
+    <strong>TypeScript</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📄</div>
+    <strong>HTML5</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎭</div>
+    <strong>CSS3</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">✨</div>
+    <strong>JavaScript</strong>
+  </div>
+</div>
+
+### Backend
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🟢</div>
+    <strong>Node.js</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🚂</div>
+    <strong>Express</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐍</div>
+    <strong>Python</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🎯</div>
+    <strong>Django</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔷</div>
+    <strong>.NET</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔗</div>
+    <strong>GraphQL</strong>
+  </div>
+</div>
+
+### Databases & Storage
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔥</div>
+    <strong>Firebase</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🍃</div>
+    <strong>MongoDB</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐘</div>
+    <strong>PostgreSQL</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐬</div>
+    <strong>MySQL</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">⚙️</div>
+    <strong>Redis</strong>
+  </div>
+</div>
+
+### DevOps & Cloud
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🐳</div>
+    <strong>Docker</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📦</div>
+    <strong>Git</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">☁️</div>
+    <strong>AWS</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">🔵</div>
+    <strong>Azure</strong>
+  </div>
+</div>
+
+### Tools
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">💻</div>
+    <strong>VS Code</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; color: white; font-size: 40px;">📮</div>
+    <strong>Postman</strong>
+  </div>
+</div>
+
 </div>
 
 ---
