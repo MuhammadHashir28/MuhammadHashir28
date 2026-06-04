@@ -2,11 +2,10 @@
 
 <div align="center">
 
-# Hi there, I'm Muhammad Hashir! 👋
 
 🌍 **Based in Pakistan** | 💡 **Passionate about building innovative solutions**
 
-*Full-Stack Developer | Cloud Architect | AI Solutions | Web Developer | Mobile Apps*
+*Full-Stack Developer | Architect | AI Solutions | Web Developer *
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
@@ -16,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ **Technologies & Tools**
 
-<div align="center">
+<div align="left">
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
