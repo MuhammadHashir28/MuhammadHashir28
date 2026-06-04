@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 <div align="left">
 
 ### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 23px; margin: 15px 0 25px 0;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #667eea; display: flex; align-items: center; justify-content: center; padding: 5px;">
       <img src="https://skillicons.dev/icons?i=react" width="75" height="75" alt="React"/>
@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </div>
 
 ### Backend
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 23px; margin: 15px 0 25px 0;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #68A063; display: flex; align-items: center; justify-content: center; padding: 5px;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="75" height="75" alt="Node.js"/>
@@ -110,7 +110,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </div>
 
 ### Databases & Storage
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 23px; margin: 15px 0 25px 0;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #FFCA28; display: flex; align-items: center; justify-content: center; padding: 5px;">
       <img src="https://skillicons.dev/icons?i=firebase" width="75" height="75" alt="Firebase"/>
@@ -144,7 +144,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </div>
 
 ### DevOps & Cloud
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 23px; margin: 15px 0 25px 0;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #2496ED; display: flex; align-items: center; justify-content: center; padding: 5px;">
       <img src="https://skillicons.dev/icons?i=docker" width="75" height="75" alt="Docker"/>
@@ -172,7 +172,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </div>
 
 ### Tools
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 15px 0 25px 0;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 23px; margin: 15px 0 25px 0;">
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <div style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #007ACC; display: flex; align-items: center; justify-content: center; padding: 5px;">
       <img src="https://skillicons.dev/icons?i=vscode" width="75" height="75" alt="VS Code"/>
