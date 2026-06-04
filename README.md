@@ -1,12 +1,6 @@
 <div align="center">
 
-# ⚡ Muhammad Hashir
-
-### Full-Stack Software Engineer | Creative Coder | Tech Enthusiast
-
-<img src="./profile-banner.png" width="100%" alt="Banner"/>
-
-Building scalable web applications, modern user experiences, and AI-powered solutions.
+<img src="./profile-banner.png" width="70%" alt="Banner"/>
 
 <br>
 
@@ -18,7 +12,7 @@ Building scalable web applications, modern user experiences, and AI-powered solu
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/muhammad-hashir-a94293116/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -26,25 +20,10 @@ Building scalable web applications, modern user experiences, and AI-powered solu
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Full-Stack Software Engineer passionate about building scalable web applications and modern digital experiences.
-
-- 🚀 Full Stack Web Developer
-- 💼 Working with international clients
-- 🌱 Exploring AI, Cloud, and Modern Web Technologies
-- ⚡ Focused on performance, clean architecture, and great UX
-- 🤝 Open to freelance opportunities and collaborations
+Welcome to my GitHub profile! I'm a Passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
 ---
 
-## 📊 Quick Overview
-
-| Experience | Projects | Clients | Status |
-|------------|-----------|----------|---------|
-| 3+ Years | 25+ Completed | 15+ Clients | 🟢 Available |
-
----
 
 ## ⚔️ Tech Stack
 
@@ -96,15 +75,15 @@ I'm a Full-Stack Software Engineer passionate about building scalable web applic
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHashir28&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHashir28&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHashir28&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,7 +120,7 @@ Short description of your project.
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MuhammadHashir28">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
