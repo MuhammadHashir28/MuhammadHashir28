@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#888888" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="200" height="200" rx="30" ry="30" fill="url(#bgGrad)"/>
+  <circle cx="100" cy="90" r="62" fill="url(#glowGrad)" />
+  <g filter="url(#softGlow)">
+    <circle cx="100" cy="90" r="52" fill="rgba(15,15,15,0.18)" stroke="rgba(136,136,136,0.07)" stroke-width="2"/>
+  </g>
+  <text x="100" y="110" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">E</text>
+  <text x="100" y="182" font-family="Segoe UI, Roboto, Arial" font-size="16" fill="#bbbbbb" text-anchor="middle" letter-spacing="0.5">Express</text>
+</svg>
