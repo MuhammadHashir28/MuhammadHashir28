@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer | Creative Coder | Tech Enthusiast
 
-<img src="./assets/profile-banner.png" width="100%" alt="Banner"/>
+<img src="./profile-banner.png" width="100%" alt="Banner"/>
 
 Building scalable web applications, modern user experiences, and AI-powered solutions.
 
